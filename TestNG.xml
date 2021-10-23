@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite parallel="false" name="Suite">
 	<listeners>
-            <listener class-name="TH_16_10.ListenerTest" /> 
+            <listener class-name="TH_23_10.ListenerTest" /> 
             </listeners>
   <test name="Test">
     <classes>
